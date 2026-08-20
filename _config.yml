@@ -23,8 +23,8 @@ repository               : "joeylow21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/acad headshot.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : ""
+  name             : "Joey Low"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
