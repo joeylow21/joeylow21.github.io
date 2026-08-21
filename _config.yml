@@ -23,14 +23,14 @@ repository               : "joeylow21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "acad headshot.jpg"
   name             : "Joey Low"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Social and Comparative Historian"
+  location         : ""
+  employer         : "Currently based in Los Angeles, CA."
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "joeylow21@gmail.com [Backup email: joeylow21@csu.fullerton.edu]" 
 
   # Academic websites
   academia         : # URL
