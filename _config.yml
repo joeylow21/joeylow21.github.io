@@ -24,11 +24,11 @@ repository               : "joeylow21.github.io"
 author:
   # Biographic information
   avatar           : "acad headshot.jpg"
-  name             : "Joey Low"
+  name             : "Joey Low, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Social and Comparative Historian"
-  location         : 
-  employer         : "Currently based in Los Angeles, CA."
+  bio              : "Social, Comparative, and Inter-Imperial Historian"
+  location         : "Currently based in Los Angeles, CA."
+  employer         : 
   uri              : # URL
   email            : "joeylow21@gmail.com" 
   backup email     : "joeylow21@csu.fullerton.edu"
@@ -75,7 +75,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # "joeylow_XXI"
+  twitter          : "joeylow_XXI"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
