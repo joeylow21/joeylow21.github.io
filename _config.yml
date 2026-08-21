@@ -27,10 +27,11 @@ author:
   name             : "Joey Low"
   pronouns         : # example: "she/her"  
   bio              : "Social and Comparative Historian"
-  location         : ""
+  location         : 
   employer         : "Currently based in Los Angeles, CA."
   uri              : # URL
-  email            : "joeylow21@gmail.com [Backup email: joeylow21@csu.fullerton.edu]" 
+  email            : "joeylow21@gmail.com" 
+  backup email     : "joeylow21@csu.fullerton.edu"
 
   # Academic websites
   academia         : # URL
@@ -74,7 +75,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # joeylow_XXI
+  twitter          : # "joeylow_XXI"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
