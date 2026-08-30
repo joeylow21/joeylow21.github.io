@@ -9,16 +9,18 @@
 
 main:
   - title: "Publications"
-    url: 
+    url: /publications/
 
   - title: "Teaching"
-    url:   
+    url: /teaching/  
     
   - title: "Research"
     url: /research/
     
   - title: "CV"
-    url: /files/Joey Low's CV for website 2026-27 edited.pdf/
+    url: 
+    
+    /files/Joey Low's CV for website 2026-27 edited.pdf/
     
   # - title: "CV"
   #   url: /files/Joey Low's CV for website 2026-27 edited.pdf/
