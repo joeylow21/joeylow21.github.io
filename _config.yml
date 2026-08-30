@@ -29,7 +29,7 @@ author:
   location         : "Currently based in Los Angeles, CA."
   employer         : 
   email            : "joeylow21@gmail.com" 
-  email 2          : "joeylow21@csu.fullerton.edu"
+  email2           : "joeylow21@csu.fullerton.edu"
   
 
   # Academic websites
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "joeylow21.github.io"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
