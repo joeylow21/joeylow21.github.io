@@ -14,11 +14,8 @@ main:
   - title: "Teaching"
     url: /teaching/  
     
-  - title: "Research"
-    url: /research/
-    
   - title: "CV"
-    url: "/files/Joey Low's CV for website 2026-27 edited.pdf/"
+    url: "https://github.com/joeylow21/joeylow21.github.io/blob/632966c7aa260ba47245861d3474b7a26cdf46bc/files/Joey%20Low_CV_website_2026-27.pdf"
     
   # - title: "CV"
   #   url: /files/Joey Low's CV for website 2026-27 edited.pdf/
