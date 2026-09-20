@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Test
 
-Forthcoming__
+Forthcoming
 
 
 
